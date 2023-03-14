@@ -2,6 +2,6 @@
 
 core: C++, JS, python
 
-skills: JS, TS, node, express, mongo, React, Redux, webPack, OtcheNash
+skills: JS, TS, node, express, mongo, React, Redux(thunk, saga), webPack, OtcheNash
 
 contacts: telegram @vscalett
