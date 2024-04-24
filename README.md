@@ -4,4 +4,6 @@ core: C++, JS, python
 
 skills: JS, TS, node, express, mongoDb, PostgreSQL, React, Redux, Redux Toolkit, webPack, OtcheNash
 
-contacts: telegram @vscalett
+soon: clickhouse, nest.js, graphile worker
+
+contacts: telegram @rcton
