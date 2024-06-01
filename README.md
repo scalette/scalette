@@ -2,8 +2,8 @@
 
 core: C++, JS, python
 
-skills: JS, TS, node, express, mongoDb, PostgreSQL, React, Redux, Redux Toolkit, webPack, OtcheNash
+skills: JS, TS, node, express, mongoDb, PostgreSQL, React, Redux, Redux Toolkit, webPack, OtcheNash, nest.js, graphile worker
 
-soon: clickhouse, nest.js, graphile worker
+soon: clickhouse
 
 contacts: telegram @rcton
